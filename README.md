@@ -1,6 +1,4 @@
 # picture-puzzle-game-java
-Simple picture puzzle game built using Java.
-
 This picture puzzle game has been developed using Java Swing and 2D graphics. 
 
 In this game, the user must order the pieces of the picture near others to complete the desired picture. 
@@ -18,7 +16,9 @@ LOAD : Can be used to import any image from the user’s device into the game!
 TIMER : It calculates the time taken by the user to complete the puzzle in minutes and seconds.
 
 # Screenshots :
+![image7](https://user-images.githubusercontent.com/76456498/114835638-67d9be80-9def-11eb-8d79-5cff358d8db6.png)
 
+![image6](https://user-images.githubusercontent.com/76456498/114835657-6d370900-9def-11eb-975d-ced40578c112.png)
 
-
+![image5](https://user-images.githubusercontent.com/76456498/114835674-70ca9000-9def-11eb-94e1-1420d913d6ca.png)
 
