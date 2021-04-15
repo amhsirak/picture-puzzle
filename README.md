@@ -3,7 +3,7 @@ This picture puzzle game has been developed using Java Swing and 2D graphics.
 
 In this game, the user must order the pieces of the picture near others to complete the desired picture. 
 
-The game has 4 buttons : Start/Stop, Play/Pause, Shuffle and Load and a Timer.
+It has 4 buttons : Start/Stop, Play/Pause, Shuffle and Load and a Timer.
 
 START/STOP : Can be used to start or stop the game.
 
