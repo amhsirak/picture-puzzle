@@ -18,7 +18,8 @@ TIMER : It calculates the time taken by the user to complete the puzzle in minut
 # Screenshots :
 ![image7](https://user-images.githubusercontent.com/76456498/114835638-67d9be80-9def-11eb-8d79-5cff358d8db6.png)
 
-![image6](https://user-images.githubusercontent.com/76456498/114835657-6d370900-9def-11eb-975d-ced40578c112.png)
+![image6](https://user-images.githubusercontent.com/76456498/114835803-95bf0300-9def-11eb-9b3b-0e20e566663b.png)
+
 
 ![image5](https://user-images.githubusercontent.com/76456498/114835674-70ca9000-9def-11eb-94e1-1420d913d6ca.png)
 
