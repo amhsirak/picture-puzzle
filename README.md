@@ -1,8 +1,28 @@
-# About 
+## Description
 
-In this game, the user must order the pieces of the picture near others to complete the desired picture. 
+A simple GUI puzzle game that offers fantastic experience for puzzle lovers. You can create puzzles with your own pictures or play with the defualt image.
 
-It has a Timer and 4 buttons : Start/Stop, Play/Pause, Shuffle and Load.
+## Features 
 
-You can import any picture from your device into the game and play.
+* Timer
+* Start/Stop 
+* Play/Pause 
+* Shuffle ( To generate random shufflings )
+* Load ( To load any image from your desktop )
+
+
+## Tech Stack
+
+Java 
+
+## To Try This Own Your Own
+
+Clone the repository:
+
+```
+git clone https://github.com/karishmas6/picture-puzzle-game.git
+```
+
+
+
 
