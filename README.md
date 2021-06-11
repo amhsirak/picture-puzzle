@@ -1,6 +1,6 @@
 ## Description
 
-A simple GUI puzzle game that offers fantastic experience for puzzle lovers. You can create puzzles with your own pictures or play with the defualt image.
+A simple GUI puzzle game that offers fantastic experience for puzzle lovers. You can create puzzles with your own pictures or play with the default image.
 
 ## Features 
 
