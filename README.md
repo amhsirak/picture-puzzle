@@ -1,6 +1,6 @@
 ## Description
 
-A simple desktop GUI puzzle game similar to a jigsaw puzzle but with square pieces. Arrange the square pieces at the right position to assemble the divided picture.
+A simple desktop GUI picture puzzle game similar to a jigsaw puzzle but with square pieces. Arrange the square pieces at the right position to assemble the divided picture.
 Continue by clicking on the square pieces until the picture is formed and the puzzle is solved. You can create puzzles with your own pictures or play with the default image.
 
 ## Features 
